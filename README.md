@@ -5,7 +5,7 @@ Software, 3D model and printing files, hardware specs and instructions for build
 
 
 Hardware: 
-- 1x Receiver: Esp32 TTGO V7 1.3 Mini - you can use any ESP32 board.
+- 1x Receiver: I use Esp32 TTGO V7 1.3 Mini - you can use any ESP32 board.
 - 2x Sender (on board microcontrollers): Adafruit ESP32 Pico Stemma QT - S2 (avoid S3 due to incompatibility with the BNO055) (https://www.adafruit.com/product/5325)
 - 2x Battery Charger shields for Stemma QT (https://www.adafruit.com/product/5397)
 - 2x Adafruit BNO055 (https://www.adafruit.com/product/4646)
