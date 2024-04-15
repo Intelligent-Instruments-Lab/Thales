@@ -8,4 +8,4 @@ Hardware:
 - Taidacent MLX90393 (with few mods should easily host the Adafruit version)
 - Stemma QT I2C wires
 - SPDT Switch: https://www.adafruit.com/product/805
-- Set of magnets, 30mm diameter (4mm thick ones, but also 5mm is fine)
+- Set of neodymium magnets, 30mm diameter (4mm thick ones, but also 5mm is fine)
