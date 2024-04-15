@@ -14,4 +14,6 @@ Hardware:
 - 2x LiPo batteries (I used Makerfocus batteries: https://www.makerfocus.com/products/4pcs-952540-3-7v-1000mah-battery-with-jst1-25-connector-lithium-rechargeable-battery)
 - Screws and bolts of various sizes, possibly non ferromagnetic. Importantly, 6x half thread screws such as these:
 
+  ![plot](./Images/Screws.png)
+
   
