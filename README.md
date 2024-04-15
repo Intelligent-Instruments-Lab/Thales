@@ -14,7 +14,7 @@ Hardware:
 - 2x SPDT Switch: https://www.adafruit.com/product/805
 - Set of neodymium magnets, 30mm diameter (4mm thick ones, but also 5mm is fine)
 - 2x LiPo batteries (I used Makerfocus batteries: https://www.makerfocus.com/products/4pcs-952540-3-7v-1000mah-battery-with-jst1-25-connector-lithium-rechargeable-battery)
-- Screws and bolts of various sizes, possibly non ferromagnetic. Importantly, 6x half thread screws such as these, with nuts:
+- Screws and bolts of various sizes, possibly non ferromagnetic. Importantly, 6x half thread 5M screws, with nuts. Length of the screws should be around 45mm (we cut some 50mm ones):
 
   ![plot](./Images/Screws.png)
 
