@@ -1,7 +1,7 @@
 # Thales
 Software, 3D model and printing files, hardware specs and instructions for building Thales.
 
-  ![plot](./Images/Thales-8490.jpg)
+  ![plot](./Images/thales-8490.jpg)
 
 
 Hardware: 
