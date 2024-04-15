@@ -19,7 +19,7 @@ Hardware:
   ![plot](./Images/Screws.png)
 
   
-Heres's one assembled controller. Building process will be detailed as I replicate it in the next weeks:
+Heres's one assembled controller. The picture is self-explanatory, but I will detail the process as I replicate the instrument in the next weeks:
 
  ![plot](./Images/Thales_open.jpg)
 
